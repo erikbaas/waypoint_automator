@@ -5,7 +5,7 @@
 *******************************************************************
   WAYPOINT GENERATOR
 
-  Copyright (c) 2022, Aerospace Engineering, TU Delft & Royal NLR.
+  Copyright (c) 2022, Aerospace Engineering, TU Delft & NLR.
   All rights reserved. This program and the accompanying materials
   are meant solely for educative purposes.
   Author: Erik van Baasbank @erikbaas
