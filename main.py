@@ -5,7 +5,6 @@
 *******************************************************************
   WAYPOINT GENERATOR
 
-  Copyright (c) 2022, Aerospace Engineering, TU Delft & NLR.
   All rights reserved. This program and the accompanying materials
   are meant solely for educative purposes.
   Author: Erik van Baasbank @erikbaas
@@ -53,6 +52,7 @@ def adjust_waypoints_file(filename_, deg):
 
                 # # ################# ALTER STUFF HERE #####################
                 # note that indexes start at 1 (because 0 represents H)
+                # note that below are just examples of what you can automate
 
                 # Retrieve the circle center from the center of the circle
                 if ln_index == 1:
