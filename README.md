@@ -1,6 +1,8 @@
 # Waypoint Automator
 
-In this example, slight variations of a line get created automatically and put into a new waypoint file (see below). For the input (and output) waypoint file, please contact e.b.vanbaasbank@student.tudelft.nl.
+If the polygon option does not suffice, and you want to create many versions of a flight plan, this simple script can help out.
+
+In this example, slight variations of a line get created automatically and put into a new waypoint file (see below). 
 
 ## The output of this example
 
@@ -20,3 +22,4 @@ Correspond to the following indexes / commands in Mission Planner:
 
 That means the variable names used are not zero indexed, to match Mission Planner!
 
+For the input (and output) waypoint file of this example, please contact e.b.vanbaasbank@student.tudelft.nl.
