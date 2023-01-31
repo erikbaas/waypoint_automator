@@ -1,6 +1,6 @@
 # Waypoint Automator
 
-If the polygon option does not suffice, and you want to create many versions of a flight plan, this simple script can help out.
+In Mission Planner, if you want to create many versions of a flight plan (which need to be saved as seperate flight plans) then this simple script can help out.
 
 In this example, slight variations of a line get created automatically and put into a new waypoint file (see below). 
 
@@ -8,9 +8,9 @@ In this example, slight variations of a line get created automatically and put i
 
 ![Untitled ‑ Made with FlexClip](https://user-images.githubusercontent.com/47579794/203335996-97552280-41c3-47cf-8719-d4d7e6908922.gif)
 
-## How to get that
+## How to get that?
 
-In this example, only the main script needs to be adjusted. But depending on what you want, you might have to make custom utility functions.
+In this example, only the main script needs to be adjusted. But depending on what you want to achieve, you might have to make custom utility functions.
 
 When changing parameters, know that the paramaters in the image below:
 
